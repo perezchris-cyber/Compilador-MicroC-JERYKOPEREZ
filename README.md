@@ -20,6 +20,8 @@ Visualizar la ruta completa del archivo actual en el título de la ventana.
 Recibir confirmaciones antes de salir si hay cambios sin guardar.
 Este proyecto constituye la primera fase del diseño de un compilador para MicroC, cumpliendo con los requisitos establecidos en la hoja de trabajo del curso.
 
+
+
 💻 Tecnologías Utilizadas
 **Lenguaje: Python 3.10+
 **Interfaz gráfica: Tkinter (biblioteca estándar de Python)
